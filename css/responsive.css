@@ -1,0 +1,70 @@
+@media (max-width:767px){
+    .statistics{
+        height: 812px;
+    }
+    .statistics .overlay{
+        min-height: 600px;
+    }
+    .our_skill{
+        padding-top: 331px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    /* .navbar-inverse .navbar-nav > li > a .dropdown-toggle > li > a{
+
+    } */
+    .about h1{
+        font-size: 24px;
+    }
+    .about p{
+        font-size: 18px;
+        padding: 0 10px 0;
+    }
+    .subscribe .input-control {
+        height: 33px;
+        width: 382px;
+        border-radius: 10px;
+    }
+    .subscribe .btn{
+        margin-top: 20px;
+        border-radius: 10px;
+        height: 43px;
+        width: 148px;
+        text-indent: -5px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    .our_team img{
+        width: 50%;
+        margin: auto;
+    }
+    .our_team h3{
+        margin-top: 11px;
+        margin-bottom: 0;
+        margin-left: 28px;
+    }
+    .our_team .person p{
+        margin-top: 10px;
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .our_team .person i{
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    .our_skill{
+        padding-top: 29px;
+    }
+    .contact_us{
+        height: 522px;
+    }
+
+}
+
+@media (min-width:768px){
+    .statistics{
+        height: 440px;
+    }
+}
